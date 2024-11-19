@@ -38,7 +38,7 @@ function Cta() {
             <img
               className="hero-img"
               alt="Woman Enjoing food, meals in storage container, and food bowls on a table"
-              src="https://i.ibb.co/n6cShp4/Group-270989716-4.png"
+              src="https://i.imgur.com/eMoqtVC.png"
             />
           </div>
         </div>
